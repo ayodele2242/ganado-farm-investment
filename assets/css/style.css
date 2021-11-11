@@ -1,0 +1,369 @@
+body {
+  font-family: 'Roboto Regular', sans-serif;
+  font-weight: 400;
+  color: #666;
+  font-size: 14px;
+  line-height: 20px;
+  width: 100%;
+  background: #ddd;
+  color: #222;
+  
+}
+
+main .container,#slideshow0{
+    top: 0; right: 0; bottom: 0; left: 0;
+	width: 100%;
+
+}
+.mb{
+	background: transparent;
+	border:none;
+	 margin: auto;
+	 font-size: 20px;
+	 font-weight: bolder;
+
+}
+.mb:hover{
+border-radius: 100%;
+
+	}
+
+.btn_overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  text-align: center;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0);
+  transition: background 0.5s ease;
+   -webkit-filter:blur(2px); /*Add this*/
+}
+
+.product-thumb:hover .btn_overlay {
+  display: block;
+  background: rgba(0, 0, 0, .5);
+}
+
+.product-thumb:hover .cart-button,.product-thumb:hover .product_discription {
+  display: block;
+  }
+
+
+.cart-button {
+  position: absolute;
+   margin: auto;
+  display: none;
+  padding: 10px;
+  top: 70px;
+  transition: opacity .35s ease;
+   z-index: 1;
+}
+
+.product_discription {
+  position: absolute;
+   margin: auto;
+  display: none;
+  top: 120px;
+  color: #fff;
+  transition: opacity .35s ease;
+   z-index: 1;
+}
+
+
+.product_discription a {
+ color: #fff;
+}
+.product_discription a:hover {
+ color: #f1f1f1;
+}
+
+.product-thumb:hover .cart_button {
+  opacity: 1;
+}
+
+.card-title{
+ color: #f0a;
+ font-weight: bolder;
+ text-align: center;
+ font-size: 18px;
+}
+
+.table_view {
+width: 100%;
+color:#006699;
+font-size:14px;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+border-collapse:collapse;
+border:none;
+}
+.table_view thead th {
+font-size:14px;
+background: #666666;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+padding:5px;
+color: #00CCCC;
+white-space: nowrap;
+text-transform:  capitalize;
+}
+.table_view th:last-child{
+  width:100%;
+}
+.table_view tr.odd {
+background: rgb(245, 216, 245);
+}
+
+.table_view tr.even {
+background: rgb(224, 248, 248);
+}
+.table_view tr.odd:hover, .table_view tr.even:hover {
+background: #CF9;
+}
+.table_view  tbody  tr  td {
+font-size:14px;
+color: #336699;
+white-space: nowrap;
+width:auto;
+text-align: left;
+
+}
+#response{
+ 
+white-space: nowrap;
+margin: 0 auto;
+ 
+}
+
+.info{
+   padding:12px;
+  background: #fff;
+  margin-bottom: 10px;
+}
+
+.head{
+font-size:14px;
+background: #666666;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+padding:5px;
+color: #00CCCC;
+white-space: nowrap;
+text-transform:  capitalize;
+}
+
+ }
+ .SearchForm{
+      background: #fff;
+      padding:7px;
+      white-space: normal;
+     
+      
+     }
+
+    .mselect, .mselect *, .mselect option {
+    -webkit-appearance: none;
+    -moz-appearance: none; 
+    -ms-appearance: none;
+    appearance: none;
+    outline: 0;
+    box-shadow: none;
+    border: 0 !important;
+    background-image: none;
+  }
+
+     .mselect, .mselect:focus, .mselect:active,.mbtn,.mbtn:hover,.mbtn:focus{
+      -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    outline: 0;
+    box-shadow: none;
+    border: 0 !important;
+    background-image: none;
+     }
+
+.s-hidden {
+    visibility:hidden;
+    padding-right:10px;
+}
+.select {
+    cursor:pointer;
+    display:inline-block;
+    position:relative;
+    font:normal 11px/22px Arial, Sans-Serif;
+    color:black;
+    border:1px solid #ccc;
+}
+
+
+.icon {
+  display: inline-block;
+  width:auto;
+  height:16px;
+  margin-right: 8px;
+}
+
+
+.mbutton {
+  display: none;
+  border: none;
+  cursor: pointer;
+  color: white;
+  padding: 8px 16px;
+  border-radius: 2px;
+  font-size: 16px;
+  background: #2A4B8D;
+  width: 350px;
+  margin: 0 auto;
+  margin-top: 23px;
+  margin-bottom: 25px;
+}
+
+
+/* Ripple magic */
+.mbutton{
+  position: relative;
+  overflow: hidden;
+}
+
+.mbutton:after {
+  content: '';
+  mix-blend-mode: screen;
+  position: absolute;
+  top: 8px;
+  right: 14px;
+  width: 26px;
+  height: 26px;
+  background: rgba(51, 102, 204, .5);
+  opacity: 0;
+  border-radius: 100%;
+  transform-origin: 50% 50%;
+  
+}
+
+@keyframes ripple {
+  0%, 35% {
+    transform: scale(0);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.5);
+    opacity: 0.8;
+  }
+  100% {
+    opacity: 0;
+    transform: scale(4);
+  }
+}
+
+.mbutton::after {
+  animation: ripple 1.2s ease-out infinite;
+  animation-delay: 1s;
+}
+
+.default{
+font-size:17px;
+padding: 5px;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+color: #4B515D;
+white-space: nowrap;
+text-transform:  capitalize;
+font-weight: bolder;
+}
+ 
+
+
+.mfeactured{
+	padding: 15px;
+
+}
+
+.fancy {
+	padding: : 15px;
+  text-align: center;
+  line-height: 0.1em;
+   margin: 10px 0 20px; 
+}
+.fancy span {
+  display: inline-block;
+  position: relative;  
+}
+.fancy span:before,
+.fancy span:after {
+  content: "";
+  position: absolute;
+  height: 5px;
+  border-bottom: 2px solid #ff4444;
+  border-top: 2px solid #CC0000;
+  top: 0;
+  width: 570px;
+}
+.fancy span:before {
+  right: 100%;
+  margin-right: 15px;
+}
+.fancy span:after {
+  left: 100%;
+  margin-left: 15px;
+ 
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+  
+.SearchForm{
+	display: none;
+}
+  
+}
+
+/* 
+  ##Device = Most of the Smartphones Mobiles (Portrait)
+  ##Screen = B/w 320px to 479px
+*/
+
+@media (min-width: 320px) and (max-width: 480px) {
+  
+ .SearchForm{
+	display: none;
+}
+  
+}
+
+.inf{
+	font-size: 14px;
+}
+
+.nav-item{
+	font-size: 14px;
+	font-weight: bolder;
+}
+.nav-link{
+	font-weight: bold;
+}
+
+.list-inline-item a,.dropdown-toggle, .dropdown-toggle strong{
+	color: #fff;
+}
+
+.dropdown-menu a{
+color: #000;
+}
+
+
+.mega-dropdown-menu > li > ul > li {
+  list-style: none;
+}
+.mega-dropdown-menu > li > ul > li > a {
+  display: block;
+  color: #222;
+  padding: 3px 5px;
+}
+.mega-dropdown-menu > li ul > li > a:hover,
+.mega-dropdown-menu > li ul > li > a:focus {
+  text-decoration: none;
+}
+.mega-dropdown-menu .dropdown-header {
+  font-size: 18px;
+  color: #ff3546;
+  padding: 5px 60px 5px 5px;
+  line-height: 30px;
+}

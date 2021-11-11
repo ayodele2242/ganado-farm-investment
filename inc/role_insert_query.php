@@ -1,0 +1,1 @@
+INSERT INTO `role_rights` (`rr_rolecode`, `rr_modulecode`, `rr_create`, `rr_edit`, `rr_delete`, `rr_view`) VALUES ('SUPERADMIN', 'ORDERS', 'yes', 'yes', 'yes', 'yes'), ('SUPERADMIN', 'RECURRING ORDERS', 'yes', 'yes', 'yes', 'yes'), ('SUPERADMIN', 'RETURNS', 'yes', 'yes', 'yes', 'yes'), ('SUPERADMIN', 'VOUCHERS', 'yes', 'yes', 'yes', 'yes');

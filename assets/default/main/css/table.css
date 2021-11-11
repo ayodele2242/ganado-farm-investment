@@ -1,0 +1,220 @@
+
+.table_view {
+width: 100%;
+font-size:12px;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+border-collapse:collapse;
+border:none;
+color: #336699;
+}
+.table_view thead th {
+font-size:14px;
+background: #666666;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+padding:5px;
+color: #00CCCC;
+text-transform:  capitalize;
+white-space: nowrap;
+}
+.table_view th:last-child{
+  width:100%;
+}
+
+
+
+table.table_view > tbody > tr:nth-child(odd)
+{
+ background: #b3e5fc;
+}
+
+table.table_view > tbody > tr:nth-child(even)
+{
+ background: #e1f5fe;
+}
+
+
+.table_view > tbody > tr > td {
+font-size:12px;
+white-space: nowrap;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+}
+.reds{
+    color: #f0a;
+}
+
+td > input[type="text"], td input[type="text"] {
+color: #336699;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+}
+
+.table_view > tbody > tr > td > input[type="text"], td input[type="text"] {
+color: #336699;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+background: #fff;
+}
+
+table.striped > tbody > tr:nth-child(odd)
+{
+ background: #ffebee;
+}
+
+table.striped > tbody > tr:nth-child(even)
+{
+ background: #d7ccc8;
+}
+
+@media
+      only screen 
+    and (max-width: 760px), (min-device-width: 768px) 
+    and (max-device-width: 1024px)  {
+
+        /* Force table to not be like tables anymore */
+        table, thead, tbody, th, td, tr {
+            display: block;
+            color: #336699;
+            font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+        }
+
+        /* Hide table headers (but not display: none;, for accessibility) */
+        thead th {
+            position: absolute;
+            top: -9999px;
+            left: -9999px;
+        }
+
+    tr {
+      margin: 0 0 1rem 0;
+    }
+      
+    tr:nth-child(odd) {
+      /*background: #ccc;*/
+    }
+    
+        td {
+            /* Behave  like a "row" */
+            border: none;
+            position: relative;
+            color: #336699;
+            font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+        }
+
+        td > input[type="text"], td input[type="text"] {
+            /* Behave  like a "row" */
+            color: #336699;
+            font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+        }
+
+        td:before {
+            /* Now like a table header */
+            position: absolute;
+            /* Top/left values mimic padding */
+            top: 0;
+            left: 6px;
+            width: 45%;
+            padding-right: 0px;
+            white-space: nowrap;
+        }
+td.tbtn{
+    text-align: center;
+}
+ 
+}
+
+
+.mtable{
+font-size:12px;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+border-collapse: collapse;
+border:none;
+color: #336699;
+background: #fff8e1;
+}
+
+.mtable > thead > tr > th{
+    white-space: nowrap;
+    background: #e8eaf6;
+}
+
+.hideIts{
+    display: none;
+    visibility: hidden;
+}
+
+.hidden {
+  display: none;
+}
+
+/*.mtable > tbody > tr > td {
+ position: relative;   
+font-size:12px;
+background: #fff8e1;
+vertical-align:middle;
+font-family:"Lucida Grande", "Lucida Sans Unicode", Arial, Helvetica, sans-serif;
+overflow: hidden;
+
+}
+
+.mtable > tbody > tr{
+border-bottom: solid 1px #336699;
+height: 14px;
+}
+
+.mtable > tbody > tr > td > input[type="text"], td input[type="text"],td #priority {
+  position: absolute;
+  color: #336699;
+  display: block;
+  top:0;
+  left:0;
+  margin: 0;
+  height: 100%;
+  width: 100%;
+  border: none;
+  box-sizing: border-box;
+  border-bottom: none;
+
+}*/
+
+.number-wrapper {
+  position: relative;
+}
+
+.number-wrapper:after,
+.number-wrapper:before {
+  position: absolute;
+  right: 5px;
+  width: 1.6em;
+  height: .9em;
+  font-size: 10px;
+  pointer-events: none;
+  background: #fff;
+}
+
+.number-wrapper:after {
+  color: blue;
+  content: "\25B2";
+  margin-top: 1px;
+}
+
+.number-wrapper:before {
+  color: red;
+  content: "\25BC";
+  margin-bottom: 5px;
+  bottom: -.5em;
+}
+
+
+.countrycode, .countrycode *, .countrycode option {
+    border: 0 !important;
+    background: transparent;
+  }
+
+   .countrycode, .countrycode:focus, .countrycode:active{
+      -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    outline: 0;
+    box-shadow: none;
+    background-image: none;
+     }
+

@@ -1,0 +1,51 @@
+[31-Oct-2020 12:46:22 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 12:46:22 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 12:46:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 12:46:22 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 12:46:22 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[31-Oct-2020 13:07:36 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:07:36 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:07:36 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:07:36 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 13:07:36 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[31-Oct-2020 13:19:47 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:19:47 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:19:47 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:19:47 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 13:19:47 UTC] PHP Warning:  session_start(): Cannot start session when headers already sent in /home/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[31-Oct-2020 13:20:55 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:20:55 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:20:55 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:20:55 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 13:22:26 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:22:26 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:22:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:22:26 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 13:22:51 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:22:51 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:22:51 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:22:51 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 13:23:16 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:23:16 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:23:16 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:23:16 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 13:24:32 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:24:32 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:24:32 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:24:32 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 13:27:12 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:27:12 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:27:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:27:12 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 13:29:15 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:29:15 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:29:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:29:15 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 13:39:06 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:39:06 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:39:06 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:39:06 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[31-Oct-2020 13:53:12 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[31-Oct-2020 13:53:12 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[31-Oct-2020 13:53:12 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[31-Oct-2020 13:53:12 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0

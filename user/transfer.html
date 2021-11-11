@@ -1,0 +1,139 @@
+ <a href="#modaldemo98" id="<?php echo $get['id']; ?>"  data-amt="<?php echo $get['Amt_to_get']; ?>" data-plan="<?php echo $get['plan']; ?>" data-trx="<?php echo $get['Trx_code']; ?>" class="waves-effect waves-light btn btn-warning col-white modal-trigger withdraw">Withdraw</a>
+
+
+
+
+
+
+
+
+<div id="modaldemo98" class="modal">
+    <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content modal-content-demo">
+            <div class="modal-header">
+                <h5 class="modal-title all-title">Verification of Account</h5>
+                
+            </div>
+            <div class="modal-body">
+
+            <div class="otp-div">
+
+               <div class="alert alert-warning" role="alert">
+                    <strong>Please note that, After the confirmation either to accept or reject, you cannot revoke it back</strong>
+                </div>
+               
+                <form action="#" class="form-horizontal" method="POST" id="acceptform">
+                    <input type="hidden" class="form-control" name="_token" value="<?php echo genTranxRef($length);  ?>">
+                    <div class="form-group">
+                        <label for="message-text" class="col-form-label">Amount:</label>
+                        <input type="text" required class="form-control" id="amount_codetsx" readonly="" >
+                    </div>
+                     <div class="form-group" >
+                        <label for="message-text" class="col-form-label">Transfer-Ref-Code:</label>
+                        <input type="text" required class="form-control" id="Transfer_Ref_Code" disabled="disabled">
+                        
+                    </div>
+
+                     <div class="form-group" >
+                        <label for="message-text" class="col-form-label">Transfer Code:</label>
+                        <input type="text" name="transfer_code" required class="form-control" id="transfer_code" disabled="disabled">
+                        
+                    </div>
+
+
+                   
+                    
+                      <div class='loaderbtnx processing alrt-otp'>
+                       
+                        </div>
+                    
+                </form>
+
+            </div><!--otp-div #end-->
+
+        </div>
+    </div><!-- modal-dialog -->
+</div><!-- modal -->
+
+</div>    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+$(document).ready(function() {
+  $(".withdraw").click(function(e) {
+      e.preventDefault();
+
+       var id              = $(this).attr('id'); // get id of clicked row 
+       var trxid           = $(this).attr("data-trx"); 
+       var amt             = $(this).attr("data-amt");  
+       var plan            = $(this).attr("data-plan");
+       
+       
+       $("#id").val(id);
+       $('#Transfer_Ref_Code').val(trxid);
+       $('#amount_codetsx').val(amt);
+
+
+
+            var amount_codetsx = parseInt(amt*100);//parseFloat($('#amount_codetsx').val())*100;
+            var Transfer_Ref_Code = $('#Transfer_Ref_Code').val();
+            
+            event.preventDefault();
+            var trf_url_api = 'https://api.paystack.co/transfer';
+            $.ajaxSetup({
+                headers: {
+                    'Authorization': 'Bearer sk_test_b9fb3e6e692d9d7e3eafe2c688b791f558059a10'
+                }
+            });
+             $.ajax({
+                url: trf_url_api,
+                type: 'POST',
+                data:{
+                    "source": "balance",
+                    "reason": "Investment cashout on "+ plan,
+                    "amount" :amount_codetsx,
+                    "recipient": trxid
+                },
+                beforeSend: function(){
+                $(".processing").html('<div class="text-info">processing cashout...</div>');
+                
+               },
+               complete:function(data){
+                $(".processing").hide();
+                },
+                dataType:"json",
+                success: function(data){
+                
+                if(data['data']['transfer_code'])
+                $('#transfer_code').val(data['data']['transfer_code']);
+                $('.alrt-otp').html('<span class="alert-inner--text"><strong>'+data['message']+'</strong></span>');
+                
+
+
+                }
+            });
+
+
+    });
+ });
+
+</script>

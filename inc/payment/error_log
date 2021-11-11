@@ -1,0 +1,154 @@
+[02-Aug-2020 14:19:52 America/Chicago] PHP Fatal error:  Uncaught Error: Call to undefined function genTranxRef() in /home3/ganadoapp/public_html/inc/payment/pay_with_card.php:35
+Stack trace:
+#0 {main}
+  thrown in /home3/ganadoapp/public_html/inc/payment/pay_with_card.php on line 35
+[03-Sep-2020 13:25:51 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[03-Sep-2020 13:25:51 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[03-Sep-2020 13:25:51 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[03-Sep-2020 13:25:51 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[03-Sep-2020 13:25:51 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[03-Sep-2020 13:25:51 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[04-Sep-2020 13:58:24 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[04-Sep-2020 13:58:24 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[04-Sep-2020 13:58:24 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[04-Sep-2020 13:58:24 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[04-Sep-2020 13:58:24 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[04-Sep-2020 13:58:24 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[04-Sep-2020 13:58:43 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[04-Sep-2020 13:58:43 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[04-Sep-2020 13:58:43 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[04-Sep-2020 13:58:43 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[04-Sep-2020 13:58:43 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[04-Sep-2020 13:58:43 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[13-Sep-2020 19:24:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[13-Sep-2020 19:24:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[13-Sep-2020 19:24:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[13-Sep-2020 19:24:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[13-Sep-2020 19:24:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[13-Sep-2020 19:24:29 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[24-Sep-2020 05:18:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[24-Sep-2020 05:18:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[24-Sep-2020 05:18:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[24-Sep-2020 05:18:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[24-Sep-2020 05:18:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[24-Sep-2020 05:18:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[30-Sep-2020 10:16:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:16:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:16:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:16:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[30-Sep-2020 10:16:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[30-Sep-2020 10:16:55 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[30-Sep-2020 10:17:17 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:17:17 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:17:17 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:17:17 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[30-Sep-2020 10:17:17 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[30-Sep-2020 10:17:17 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[30-Sep-2020 10:17:45 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:17:45 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:17:45 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:17:45 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[30-Sep-2020 10:17:45 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[30-Sep-2020 10:17:45 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[30-Sep-2020 10:17:58 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:17:58 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:17:58 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:17:58 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[30-Sep-2020 10:17:58 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[30-Sep-2020 10:17:58 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[30-Sep-2020 10:18:00 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:18:00 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:18:00 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[30-Sep-2020 10:18:00 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[30-Sep-2020 10:18:00 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[30-Sep-2020 10:18:00 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[01-Oct-2020 06:27:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[01-Oct-2020 06:27:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[01-Oct-2020 06:27:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[01-Oct-2020 06:27:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[01-Oct-2020 06:27:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[01-Oct-2020 06:27:05 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[08-Oct-2020 07:51:38 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[08-Oct-2020 07:51:38 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[08-Oct-2020 07:51:38 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[08-Oct-2020 07:51:38 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[08-Oct-2020 07:51:38 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[08-Oct-2020 07:51:38 America/Chicago] PHP Warning:  A non-numeric value encountered in /home3/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[13-Oct-2020 14:48:48 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[13-Oct-2020 14:48:48 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[13-Oct-2020 14:48:48 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[13-Oct-2020 14:48:48 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[14-Oct-2020 21:21:29 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[14-Oct-2020 21:21:29 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[14-Oct-2020 21:21:29 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[14-Oct-2020 21:21:29 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[15-Oct-2020 05:46:44 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[15-Oct-2020 05:46:44 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[15-Oct-2020 05:46:44 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[15-Oct-2020 05:46:44 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[24-Oct-2020 02:29:23 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[24-Oct-2020 02:29:23 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[24-Oct-2020 02:29:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[24-Oct-2020 02:29:23 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[28-Oct-2020 01:25:41 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[28-Oct-2020 01:25:41 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[28-Oct-2020 01:25:41 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[28-Oct-2020 01:25:41 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[28-Oct-2020 07:57:15 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[28-Oct-2020 07:57:15 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[28-Oct-2020 07:57:15 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[28-Oct-2020 07:57:15 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[28-Oct-2020 07:58:26 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[28-Oct-2020 07:58:26 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[28-Oct-2020 07:58:26 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[28-Oct-2020 07:58:26 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[28-Oct-2020 13:44:21 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[28-Oct-2020 13:44:21 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[28-Oct-2020 13:44:21 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[28-Oct-2020 13:44:21 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[28-Oct-2020 13:44:21 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[28-Oct-2020 13:44:21 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[28-Oct-2020 13:44:21 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[28-Oct-2020 13:44:21 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[28-Oct-2020 13:44:21 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[28-Oct-2020 13:44:21 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[28-Oct-2020 13:44:22 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[28-Oct-2020 13:44:22 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[28-Oct-2020 13:44:22 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[28-Oct-2020 13:44:22 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[09-Nov-2020 21:59:46 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[09-Nov-2020 21:59:46 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[09-Nov-2020 21:59:46 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[09-Nov-2020 21:59:46 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:09 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:09 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:09 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[19-Nov-2020 21:05:09 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:09 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[19-Nov-2020 21:05:09 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[19-Nov-2020 21:05:09 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[19-Nov-2020 21:05:09 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[19-Nov-2020 21:05:09 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[19-Nov-2020 21:05:09 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[19-Nov-2020 21:05:10 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:10 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[19-Nov-2020 21:05:10 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:10 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:10 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:10 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[19-Nov-2020 21:05:10 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:23 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:23 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:23 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[19-Nov-2020 21:05:23 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:23 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[19-Nov-2020 21:05:23 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[19-Nov-2020 21:05:23 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 23
+[19-Nov-2020 21:05:23 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[19-Nov-2020 21:05:23 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 24
+[19-Nov-2020 21:05:23 UTC] PHP Warning:  A non-numeric value encountered in /home/ganadoapp/app.gapp.ng/inc/payment/pay_with_card.php on line 25
+[19-Nov-2020 21:05:25 UTC] PHP Warning:  Module 'PDO' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:25 UTC] PHP Warning:  Module 'pdo_sqlite' already loaded in Unknown on line 0
+[19-Nov-2020 21:05:25 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'sqlite.so' (tried: /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so: cannot open shared object file: No such file or directory), /opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so (/opt/cpanel/ea-php72/root/usr/lib64/php/modules/sqlite.so.so: cannot open shared object file: No such file or directory)) in Unknown on line 0
+[19-Nov-2020 21:05:25 UTC] PHP Warning:  Module 'pdo_mysql' already loaded in Unknown on line 0

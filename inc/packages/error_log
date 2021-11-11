@@ -1,0 +1,29 @@
+[02-Aug-2020 17:38:56 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/public_html/inc/config.php on line 2
+[04-Aug-2020 18:14:36 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/ganadoapp/app.gapp.ng/inc/packages/getPlan.php:1) in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[05-Aug-2020 10:25:26 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/ganadoapp/app.gapp.ng/inc/packages/getPlan.php:1) in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[05-Aug-2020 10:25:33 America/Chicago] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home3/ganadoapp/app.gapp.ng/inc/packages/getPlan.php:1) in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[06-Aug-2020 11:39:47 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[06-Aug-2020 11:48:48 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[06-Aug-2020 11:49:46 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[19-Aug-2020 07:54:37 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[19-Aug-2020 07:56:07 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[19-Aug-2020 07:58:21 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[19-Aug-2020 07:59:07 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[19-Aug-2020 08:23:50 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[19-Aug-2020 08:25:05 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[19-Aug-2020 08:26:11 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[19-Aug-2020 08:29:56 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[03-Sep-2020 00:56:56 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 05:18:09 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 05:31:01 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 06:01:13 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 06:01:51 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 06:02:37 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 06:19:50 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 06:20:20 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 06:28:04 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 06:28:24 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 06:29:02 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 06:31:43 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[25-Sep-2020 06:44:22 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
+[08-Oct-2020 06:38:41 America/Chicago] PHP Warning:  session_start(): Cannot start session when headers already sent in /home3/ganadoapp/app.gapp.ng/inc/config.php on line 2
